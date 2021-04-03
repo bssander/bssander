@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there my name is Briah, and I'm an aspiring UX/UI designer 👋
 
-<!--
-**bssander/bssander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...learning UX and UI
 - 🌱 I’m currently learning ...Javascript, HTML and CSS
@@ -11,6 +7,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...changing industries!
 - 💬 Ask me about ...traveling!
 - 📫 How to reach me: ...briahsandersdesign@gmail.com
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...
--->
+
+
